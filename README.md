@@ -2,6 +2,8 @@
 - таксон: firmicutes
 - род: Streptococcus
 
+колаб - https://colab.research.google.com/drive/1b7ffrwnu-je3TFlPMAw2sI3fG2sx7NJ2?usp=sharing
+
 |Организм|Длина генома|Кол-во последовательностей| Кол-во аннотированных генов|Процент генома, который занимают все аннотированные гены|Кол-во участков Z-ДНК с zh-score > 500| Общая длина участков Z-ДНК с zh-score > 500|
 |-|-|-|-|-|-|-| 
 |Streptococcus sobrinus|2,145,290|1|1977|82.71%|413|4166|
